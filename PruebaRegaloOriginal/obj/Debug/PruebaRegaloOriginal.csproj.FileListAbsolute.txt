@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\bin\Debug\PruebaRegaloOriginal.exe.config
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\bin\Debug\PruebaRegaloOriginal.exe
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\bin\Debug\PruebaRegaloOriginal.pdb
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.Form1.resources
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.Properties.Resources.resources
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.exe
+C:\Users\andre\Desktop\ProyectoRegaloSeguro\PruebaRegaloOriginal\PruebaRegaloOriginal\obj\Debug\PruebaRegaloOriginal.pdb
